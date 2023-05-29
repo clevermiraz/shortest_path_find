@@ -1,3 +1,4 @@
+```js
 locations = {
     1: (23.8728568, 90.3984184, "Uttara Branch"),
     2: (23.8513998, 90.3944536, "City Bank Airport"),
@@ -10,6 +11,7 @@ locations = {
     9: (23.8248938, 90.3549467, "City Bank Pallabi"),
     10: (23.813316, 90.4147498, "City Bank JFP")
 }
+```
 
 #### What To Do
 Think about TSP(Traveling SalesmanProblem). Imagine you want to drop some gifts at these all ten city bank branches starting from City Bank Uttara Branch. You are driving a bike on Dhaka roads to visit all those locations. Traffic is a concern. Also, distances are not given. You can assign your own distance. You want to use the best route, so that you spend a minimum amount of fuel. Write a program in Python, that creates the best optimized traffic route for traveling all those locations.
